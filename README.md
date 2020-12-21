@@ -2,7 +2,32 @@
 
 ### 目前是一名在校初三学生
 
-好了，我是fw
+***好了，我是fw***
+
+### Top Language:
+
+- 本人最喜欢的是Python，便捷的爬虫机制和比Kotlin(Gradle)快的编译速度可以方便的多次调试，而不是Gradle Build ( 1m12s )  
+- 其次是Kotlin和C#，Kotlin的语法糖成了日常调侃的对象，比如：
+```kotlin
+var i: Int? = 44
+var result: Type? = null
+enum class Type{A,B,C,OTHER}
+fun Type.toInt():Int? = when(this){Type.A->1;Type.B->2;Type.C->3;else->null}
+fun Int.toType():Type = if (this.toString().startsWith("4")) Type.A else Type.OTHER
+fun KOTLIN(): Type? {
+    val t=Type.A.toInt()
+    do i = i?.plus(2)while(i!! >=50)
+    for(fori in 1..10 step 5) i = i?.plus(fori)
+    for(forj in 10 downTo 1 step 5) i = i?.minus((forj*0.5).toInt())
+    resultToType(i,i.toString().drop(i?.toString()?.length!!-1).startsWith('1')) {
+        if (i?:Int.MAX_VALUE == Int.MAX_VALUE )return@resultToType null else return@resultToType i?.toType()
+    }
+    return (t?.plus(i!!))?.toType()
+}
+fun resultToType(i:Int?, ex:Boolean, func: (Int?) -> Type?) { if(ex)result=func(i) }
+fun main(){print("RESULT: ${KOTLIN()} is result")}
+```
+你知道结果是什么吗？（前提：能看懂）
 
 #### 芜湖——
 ![](https://github-readme-stats.vercel.app/api?username=awesomehhhhh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
