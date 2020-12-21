@@ -20,7 +20,7 @@ fun KOTLIN(): Type? {
     for(fori in 1..10 step 5) i = i?.plus(fori)
     for(forj in 10 downTo 1 step 5) i = i?.minus((forj*0.5).toInt())
     resultToType(i,i.toString().drop(i?.toString()?.length!!-1).startsWith('1')) {
-        if (i?:Int.MAX_VALUE == Int.MAX_VALUE )return@resultToType null else return@resultToType i?.toType()
+        return@resultToType if(i?:Int.MAX_VALUE == Int.MAX_VALUE ) null else i?.toType()
     }
     return (t?.plus(i!!))?.toType()
 }
