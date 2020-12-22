@@ -6,7 +6,7 @@
 
 ### Top Language:
 
-- 本人最喜欢的是Python，便捷的爬虫机制和比Kotlin(Gradle)快的编译速度可以方便的多次调试，而不是Gradle Build ( 1m12s )  
+- 本人最喜欢的是Python，便捷的爬虫机制和比Kotlin(Gradle)快的编译速度可以方便的多次调试
 - 其次是Kotlin和C#，Kotlin的语法糖成了日常调侃的对象，比如：
 ```kotlin
 var i: Int? = 44
@@ -28,7 +28,6 @@ fun resultToType(i:Int?, ex:Boolean, func: (Int?) -> Type?) { if(ex)result=func(
 fun main(){print("RESULT: ${KOTLIN()} is result")}
 ```
 你知道结果是什么吗？（前提：能看懂）
-
 #### 芜湖——
 ![](https://github-readme-stats.vercel.app/api?username=awesomehhhhh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
 ![](https://visitor-badge.glitch.me/badge?page_id=awesomehhhhh)
