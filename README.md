@@ -12,19 +12,23 @@
 var i: Int? = 44
 var result: Type? = null
 enum class Type{A,B,C,OTHER}
-fun Type.toInt():Int? = when(this){Type.A->1;Type.B->2;Type.C->3;else->null}
-fun Int.toType():Type = if (this.toString().startsWith("4")) Type.A else Type.OTHER
 fun KOTLIN(): Type? {
-    val t=Type.A.toInt()
-    do i = i?.plus(2)while(i!! >=50)
-    for(fori in 1..10 step 5) i = i?.plus(fori)
-    for(forj in 10 downTo 1 step 5) i = i?.minus((forj*0.5).toInt())
-    resultToType(i,i.toString().drop(i?.toString()?.length!!-1).startsWith('1')) {
-        return@resultToType if(i?:Int.MAX_VALUE == Int.MAX_VALUE ) null else i?.toType()
+    fun Type.toInt():Int? = when(this){Type.A->1;Type.B->2;Type.C->3;else->null}
+    fun Int.toType():Type = if (i?.toString()?.startsWith("4")!!) Type.A else Type.OTHER
+    fun resultToType(i:Int?, ex:Boolean, func: (Int?) -> Type?) { if(ex)result=func(i) }
+    return try{
+        val t=Type.A.toInt()
+        do i = i?.plus(2)while(i!! >=50)
+        for(fori in 1..10 step 5) i = i?.plus(fori)
+        for(forj in 10 downTo 1 step 5) i = i?.minus((forj*0.5).toInt())
+        if(i!! >=100)TODO("?")
+        resultToType(i,i.toString().drop(i?.toString()?.length!!-1).startsWith('1')) {
+            return@resultToType if(i?:Int.MAX_VALUE == Int.MAX_VALUE ) null else i?.toType()
+        }
+        (t?.plus(i!!))?.toType()
     }
-    return (t?.plus(i!!))?.toType()
+    catch (e:NotImplementedError) {null}
 }
-fun resultToType(i:Int?, ex:Boolean, func: (Int?) -> Type?) { if(ex)result=func(i) }
 fun main(){print("RESULT: ${KOTLIN()} is result")}
 ```
 你知道结果是什么吗？（前提：能看懂）
