@@ -25,7 +25,7 @@ fun KOTLIN(): Type? {
         resultToType(i,i.toString().drop(i?.toString()?.length!!-1).startsWith('1')) {
             return@resultToType if(i?:Int.MAX_VALUE == Int.MAX_VALUE ) null else i?.toType()
         }
-        (t?.plus(i!!))?.toType()
+        t?.plus(i!!)?.toType()
     }
     catch (e:NotImplementedError) {null}
 }
