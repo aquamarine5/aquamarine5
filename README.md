@@ -8,7 +8,7 @@
 
 ### Top Language:
 
-- 本人最喜欢的是Python，便捷的爬虫机制和比Kotlin(Gradle)快的编译速度可以方便的多次调试
+- 本人最喜欢的是Python，无理由（doge
 - 其次是Kotlin和C#，Kotlin的语法糖成了日常调侃的对象，比如：
 ```kotlin
 var i: Int? = 44
@@ -34,5 +34,5 @@ fun KOTLIN(): Type? {
 fun main(){print("RESULT: ${KOTLIN()} is result")}
 ```
 你知道结果是什么吗？（前提：能看懂）
-#### 芜湖——
+#### 好耶——
 
