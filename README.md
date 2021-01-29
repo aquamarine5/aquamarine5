@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 目前是一名在校初三学生
+### 目前是一名在校初三学生，3月后我就14岁了呜呜呜
 
 ***好了，我是fw***  
 ![](https://github-readme-stats.vercel.app/api?username=awesomehhhhh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)  
@@ -9,6 +9,7 @@
 ### Top Language:
 
 - 本人最喜欢的是Python，无理由（doge
+- C#我最喜欢用在Unity里面，实际上我有个游戏的库是私有的（
 - 其次是Kotlin和C#，Kotlin的语法糖成了日常调侃的对象，比如：
 <details>
 <summary>Show the code</summary>
