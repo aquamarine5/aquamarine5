@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 目前是一名在校初三学生，3月后我就14岁了呜呜呜
+### 目前是一名在校初三学生，~~3月后我就14岁了呜呜呜~~ 即将中考:-<
 
 ***好了，我是fw***  
 ![](https://github-readme-stats.vercel.app/api?username=awesomehhhhh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)  
