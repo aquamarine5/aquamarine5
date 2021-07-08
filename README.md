@@ -10,7 +10,7 @@
 
 - 本人最喜欢的是Python，无理由（doge
 - C#我最喜欢用在Unity里面，实际上我有个游戏的库是私有的（
-- 其次是Kotlin和C#，Kotlin的语法糖成了日常调侃的对象，比如：
+- 其次是Kotlin和C#，下面是Kotlin的语法糖：
 <details>
 <summary>Show the code</summary>
 
