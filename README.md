@@ -5,17 +5,17 @@
 ![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=awesomehhhhh&layout=compact&hide=HLSL,ShaderLab&cache_seconds=2880)
 ## 我的一些Repo: 
 ### Python
-- [AwesomeBot](AwesomeBot) 有个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
-- [AwesomeCore](AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
-- [YouxuepaiUtil](YouxuepaiUtil) 初二写的给优学派抓拍出的库，代码太乱已经没法整了 ᗜ‸ᗜ
+- [AwesomeBot](https://github.com/awesomehhhhh/AwesomeBot) 有个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
+- [AwesomeCore](https://github.com/awesomehhhhh/AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
+- [YouxuepaiUtil](https://github.com/awesomehhhhh/YouxuepaiUtil) 初二写的给优学派抓拍出的库，代码太乱已经没法整了 ᗜ‸ᗜ
 ### C#:
 - *Game* 自己写的游戏，除了很烂就是很烂，还挂了个private
-- [Aesc.AwesomeKits](Aesc.AwesomeKits) 是C#上面的小程序集，同样很杂
-- [Aesc.AwesomeUpdater](Aesc.AwesomeUpdater) 自动下载更新程序，*WIP*
-- [MyUnityProject](MyUnityProject) 初二Unity练手作品`SurvivalShooter`（素材基于Unity AssetStore）
+- [Aesc.AwesomeKits](https://github.com/awesomehhhhh/Aesc.AwesomeKits) 是C#上面的小程序集，同样很杂
+- [Aesc.AwesomeUpdater](https://github.com/awesomehhhhh/Aesc.AwesomeUpdater) 自动下载更新程序，*WIP*
+- [MyUnityProject](https://github.com/awesomehhhhh/MyUnityProject) 初二Unity练手作品`SurvivalShooter`（素材基于Unity AssetStore）
 ### JavaScript（浏览器插件）:
-- [ZhixuewangScoreExt](ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
-- [WenjuanxingAnsExt](WenjuanxingAnsExt) 获取问卷星试题答案，*WIP*  
+- [ZhixuewangScoreExt](https://github.com/awesomehhhhh/ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
+- [WenjuanxingAnsExt](https://github.com/awesomehhhhh/WenjuanxingAnsExt) 获取问卷星试题答案，*WIP*  
 ### Others
 - 原神大陆官服扩列 (Doge ：  
 ![GenshinImpactUserinfo.png](https://i.loli.net/2021/11/28/ujSWBa3XOPRrJ4A.png)
