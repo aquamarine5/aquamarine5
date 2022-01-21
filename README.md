@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### 中考完啦（高一ing）
-![](https://github-readme-stats.vercel.app/api?username=awesomehhhhh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true)  
-![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=awesomehhhhh&layout=compact&hide=HLSL,ShaderLab&cache_seconds=2880)  
+![](https://github-readme-stats.vercel.app/api?username=awesomehhhhh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true)
+![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=awesomehhhhh&layout=compact&hide=HLSL,ShaderLab&cache_seconds=2880)
 ![](https://visitor-badge.glitch.me/badge?page_id=awesomehhhhh)
 ## 我的一些Repo: 
 ### Python
