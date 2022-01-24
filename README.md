@@ -9,7 +9,7 @@
 - [AwesomeCore](https://github.com/awesomehhhhh/AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
 - [YouxuepaiUtil](https://github.com/awesomehhhhh/YouxuepaiUtil) 初二写的给优学派抓拍出的库，代码太乱已经没法整了 ᗜ‸ᗜ
 ### C#:
-- *Game* 自己写的游戏，除了很烂就是很烂，还挂了个private
+- *Game* 自己写的游戏，除了很烂就是很烂，还挂了个*PRIVATE*
 - [Aesc.AwesomeKits](https://github.com/awesomehhhhh/Aesc.AwesomeKits) 是C#上面的小程序集，同样很杂
 - [Aesc.AwesomeUpdater](https://github.com/awesomehhhhh/Aesc.AwesomeUpdater) 自动下载更新程序，*WIP*
 - [MyUnityProject](https://github.com/awesomehhhhh/MyUnityProject) 初二Unity练手作品`SurvivalShooter`（素材基于Unity AssetStore）
