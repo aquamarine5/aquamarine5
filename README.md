@@ -2,7 +2,7 @@
 
 ### 中考完啦（高一ing）
 ![](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&count_private=true)
-![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&cache_seconds=2880)
+![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=2880)
 ## 我的一些Repo: 
 ### Python
 - [AwesomeBot](https://github.com/aquamarine5/AwesomeBot) 有个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
