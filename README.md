@@ -6,8 +6,10 @@
 ## 我的一些Repo: 
 ### Python
 - [AwesomeBot](https://github.com/aquamarine5/AwesomeBot) 有个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
+- [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具
 - [AwesomeCore](https://github.com/aquamarine5/AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
 - [YouxuepaiUtil](https://github.com/aquamarine5/YouxuepaiUtil) 初二写的给优学派抓拍出的库，代码太乱已经没法整了 ᗜ‸ᗜ
+- *本表未列出的Python库大多不再维护。*
 ### C#:
 - *Game* 自己写的游戏，除了很烂就是很烂，还挂了个*PRIVATE*
 - [Aesc.AwesomeKits](https://github.com/aquamarine5/Aesc.AwesomeKits) 是C#上面的小程序集，同样很杂
