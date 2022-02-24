@@ -5,7 +5,7 @@
 ![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=2880)
 ## 我的一些Repo: 
 ### Python
-- [AwesomeBot](https://github.com/aquamarine5/AwesomeBot) 有个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
+- [AwesomeBot](https://github.com/aquamarine5/AwesomeBot) 住着一个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
 - [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具
 - [AwesomeCore](https://github.com/aquamarine5/AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
 - [YouxuepaiUtil](https://github.com/aquamarine5/YouxuepaiUtil) 初二写的给优学派抓拍出的库，代码太乱已经没法整了 ᗜ‸ᗜ
