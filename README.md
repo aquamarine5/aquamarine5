@@ -7,6 +7,7 @@
 ### Python
 - [AwesomeBot](https://github.com/aquamarine5/AwesomeBot) 住着一个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
 - [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具
+- [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具（测试中）
 - [AwesomeCore](https://github.com/aquamarine5/AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
 - [YouxuepaiUtil](https://github.com/aquamarine5/YouxuepaiUtil) 初二写的给优学派抓拍出的库，代码太乱已经没法整了 ᗜ‸ᗜ
 - *本表未列出的Python库大多不再维护。*
