@@ -20,5 +20,5 @@
 - [ZhixuewangScoreExt](https://github.com/aquamarine5/ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
 - <del>[WenjuanxingAnsExt](https://github.com/aquamarine5/WenjuanxingAnsExt) 获取问卷星试题答案，*WIP*</del>  
 ### Others
-- 原神大陆官服扩列 (Doge ：  
-![GenshinImpactUserinfo.png](https://i.loli.net/2021/11/28/ujSWBa3XOPRrJ4A.png)
+- 原神大陆官服扩列 (Doge （资料卡更新于22/03/12） ：  
+![GenshinImpactUserinfo.png](https://github.com/aquamarine5/aquamarine5/blob/main/Genshin_Screenshot_3_12.png)
