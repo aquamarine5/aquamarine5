@@ -16,6 +16,8 @@
 - [Aesc.AwesomeKits](https://github.com/aquamarine5/Aesc.AwesomeKits) 是C#上面的小程序集，同样很杂
 - [Aesc.AwesomeUpdater](https://github.com/aquamarine5/Aesc.AwesomeUpdater) 自动下载更新程序，*WIP*
 - [MyUnityProject](https://github.com/aquamarine5/MyUnityProject) 初二Unity练手作品`SurvivalShooter`（素材基于Unity AssetStore）
+### Java：
+- [ReadToRecite](https://github.com/aquamarine5/ReadToRecite) Android端APP 读着背诵 逃背诵小工具 *WIP*
 ### JavaScript（浏览器插件）:
 - [ZhixuewangScoreExt](https://github.com/aquamarine5/ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
 - <del>[WenjuanxingAnsExt](https://github.com/aquamarine5/WenjuanxingAnsExt) 获取问卷星试题答案，*WIP*</del>  
