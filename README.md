@@ -20,7 +20,7 @@
 ### Java：
 - [ReadToRecite](https://github.com/aquamarine5/ReadToRecite) Android端APP 读着背诵 逃背诵小工具
 ### JavaScript（Node.js）:
-- [NeteaseMusicTimeMachine](https://github.com/aquamarine5/NeteaseMusicTimeMachine) 自动导出推送黑胶时光机照片 *WIP*
+- [NeteaseMusicTimeMachine](https://github.com/aquamarine5/NeteaseMusicTimeMachine) 自动导出推送网易云音乐黑胶时光机照片 *WIP*
 ### JavaScript（浏览器插件）:
 - [ZhixuewangScoreExt](https://github.com/aquamarine5/ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
 - <del>[WenjuanxingAnsExt](https://github.com/aquamarine5/WenjuanxingAnsExt) 获取问卷星试题答案，*WIP*</del>  
