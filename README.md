@@ -24,5 +24,5 @@
 ### JavaScript（浏览器插件）:
 - [ZhixuewangScoreExt](https://github.com/aquamarine5/ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
 ### Others
-- 原神大陆官服扩列 (Doge （资料卡更新于22/03/12） ：  
+- 原神大陆官服扩列 (Doge ：  
 ![](https://genshin-card.getloli.com/11/237006471.png)
