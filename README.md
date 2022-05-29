@@ -25,4 +25,4 @@
 - [ZhixuewangScoreExt](https://github.com/aquamarine5/ZhixuewangScoreExt) 快速把你的智学网 改 成 满 分
 ### Others
 - 原神大陆官服扩列 (Doge （资料卡更新于22/03/12） ：  
-![GenshinImpactUserinfo.png](https://github.com/aquamarine5/aquamarine5/blob/main/Genshin_Screenshot_3_12.png)
+![](https://genshin-card.getloli.com/11/237006471.png)
