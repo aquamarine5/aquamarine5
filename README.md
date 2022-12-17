@@ -1,7 +1,6 @@
 ### Hi there 👋     ![](https://visitor-badge.glitch.me/badge?page_id=awesomehhhhh)
 
-### 中考完啦！（现在是高一生哦）
-- *高一学的真的好难 :(*  
+### 中考完啦！（高二ing）
 ![](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&count_private=true)
 ![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=2888)
 ## 我的一些Repo: 
