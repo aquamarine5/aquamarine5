@@ -56,7 +56,9 @@ this.session.settings.gameSpeed=10
 ```js
 this.game.cheat.boosts=true
 ```
-  </details>
+</details>
+
+
 ## 我的一些Repo: 
 ### Python
 - [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具
