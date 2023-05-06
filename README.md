@@ -1,8 +1,62 @@
 ### Hi there 👋     ![](https://visitor-badge.glitch.me/badge?page_id=awesomehhhhh)
 
-### 中考完啦！（高二ing）
 ![](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&count_private=true)
 ![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=2888)
+<details>
+  <summary>How to cheat in chromedino and edgesuft by js:</summary>
+  # @aquamarine5
+## chrome://dino
+- 困难模式
+```js
+setInterval(()=>{Runner.instance_.horizon.addNewObstacle(Runner.instance_.currentSpeed)},1000)
+```
+- 改跳跃高度
+```js
+Runner.instance_.tRex.setJumpVelocity(1000)
+```
+- 缓降buff
+```js
+Runner.instance_.tRex.config.GRAVITY=0.01
+```
+- 频闪特效
+```js
+Runner.instance_.tRex.setFlashing(1)
+```
+- 999999高分
+```js
+Runner.instance_.saveHighScore(1800000000-50)
+```
+- 极速快跑
+```js
+Runner.instance_.setSpeed(1000)
+```
+- 无敌
+```js
+Runner.instance_.gameOver=function(){}
+```
+## edge://surf
+### 初始化
+- 打开Inspector/Source, Open `surf.bundle.js`, Search `resetGameData()`, Hit a breakpoint.
+### cheating
+- 自定义心/护盾/能量
+```js
+this.game.lives.current=30,this.game.lives.max=30
+this.game.boosts.current=30,this.game.boosts.max=30
+this.game.shields.current=30,this.game.shields.max=30
+```
+- 超高分
+```js
+this.session.bestScore.endless=2147483647
+```
+- 加速器
+```js
+this.session.settings.gameSpeed=10
+```
+- 作弊无限能量且计入最高分
+```js
+this.game.cheat.boosts=true
+```
+  </details>
 ## 我的一些Repo: 
 ### Python
 - [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具
