@@ -4,7 +4,8 @@
 ![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=2888)
 <details>
   <summary>How to cheat in chromedino and edgesuft by js:</summary>
-  # @aquamarine5
+  
+# @aquamarine5
 ## chrome://dino
 - 困难模式
 ```js
