@@ -64,9 +64,17 @@ this.game.cheat.boosts=true
 ### Python
 - [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具
 - [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具
-### C#:
-- [Aesc.AwesomeUpdater](https://github.com/aquamarine5/Aquc.AquaUpdater) 自动下载更新程序，*WIP*
+### C# (.NET) :
+- [Aquc.Stackbricks](https://github.com/aquamarine5/Aquc.Stackbricks) 自动下载更新程序，**stackbricks-v3**重构进行中
+- [Aquc.Logging](https://github.com/aquamarine5/Aquc.Logging) 每日通过邮件方式发送程序日志
+- [Aquc.BiliCommits](https://github.com/aquamarine5/Aquc.BiliCommits) 一个通过Bilibili评论的方式获取简易的信息Provider
+- [Aquc.Configuration](https://github.com/aquamarine5/Aquc.Configuration) 简单容易使用的Config辅助类，包含Flow-style的读写方式
+- [Aquc.Netdisk](https://github.com/aquamarine5/Aquc.Netdisk) 一个网盘Cli
+- [Aquc.Projram.Seeker](https://github.com/aquamarine5/Aquc.Projram.Seeker) 定期扫描指定目录图片并上传至图床以备份
+### C# (Unity) :
 - [Untitled-Game](https://github.com/aquamarine5/Untitled-Game) 自己写的游戏，除了很烂就是很烂，烂尾 :(
+### Kotlin (Jetpack Compose) :
+- [Stackbricks-kt](https://github.com/aquamarine5/Stackbricks-kt) 自动更新程序，包含支持Jetpack Compose的UI，*WIP*
 ### Java：
 - [ReadToRecite](https://github.com/aquamarine5/ReadToRecite) Android端APP 读着背诵 逃背诵小工具
 ### JavaScript（Node.js）:
