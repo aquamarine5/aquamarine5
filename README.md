@@ -61,6 +61,8 @@ this.game.cheat.boosts=true
 
 
 ## 我的一些Repo: 
+### Java (Springboot) + Vue
+- [XiaolianWebHelper](https://github.com/aquamarine5/XiaolianWebHelper) 智慧笑联淋浴头小工具
 ### Python
 - [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具
 - [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具
@@ -74,6 +76,7 @@ this.game.cheat.boosts=true
 ### C# (Unity) :
 - [Untitled-Game](https://github.com/aquamarine5/Untitled-Game) 自己写的游戏，除了很烂就是很烂，烂尾 :(
 ### Kotlin (Jetpack Compose) :
+- [OnceShot](https://github.com/aquamarine5/OnceShot) 自动删除截图小程序
 - [Stackbricks-kt](https://github.com/aquamarine5/Stackbricks-kt) 自动更新程序，包含支持Jetpack Compose的UI，*WIP*
 ### Java：
 - [ReadToRecite](https://github.com/aquamarine5/ReadToRecite) Android端APP 读着背诵 逃背诵小工具
@@ -87,6 +90,3 @@ this.game.cheat.boosts=true
 - [AwesomeBot](https://github.com/aquamarine5/AwesomeBot) 住着一个QQ机器人，里面调用的Api大部分都来源于[AwesomeCore](AwesomeCore)
 - [MyUnityProject](https://github.com/aquamarine5/MyUnityProject) 初二Unity练手作品`SurvivalShooter`（素材基于Unity AssetStore）
 - [Aesc.AwesomeKits](https://github.com/aquamarine5/Aesc.AwesomeKits) 是C#上面的小程序集，同样很杂
-### Others
-- 原神大陆官服扩列 (Doge ：  
-![](https://genshin-card.getloli.com/11/237006471.png)
