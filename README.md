@@ -63,6 +63,7 @@ this.game.cheat.boosts=true
 ## 我的一些Repo: 
 ### Java (Springboot) + Vue
 - [XiaolianWebHelper](https://github.com/aquamarine5/XiaolianWebHelper) 智慧笑联淋浴头小工具
+- [Buyistic](https://github.com/aquamarine5/Buyistic) 购物网站前端后端
 ### Python
 - [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具
 - [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具
