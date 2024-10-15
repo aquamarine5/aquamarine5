@@ -1,7 +1,7 @@
 ### Hi there 👋     ![](https://visitor-badge.glitch.me/badge?page_id=awesomehhhhh)
 
 ![](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&count_private=true)
-![](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aquamarine5&layout=compact&hide=HLSL,ShaderLab&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=2888)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine5&hide=hlsl,shaderlab&layout=compact&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4)
 <details>
   <summary>How to cheat in chromedino and edgesuft by js:</summary>
   
