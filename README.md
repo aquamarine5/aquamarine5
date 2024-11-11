@@ -28,6 +28,7 @@
 ### Python
 
 - [2020.11 初三] [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具（原项目已被封😢，移步[存档](https://github.com/aquamarine5/GenshinBirthdayReceiver-archive)查看脚本文件）
+- [2024.11 大一] [MyProgramHomework](https://github.com/aquamarine5/MyProgramHomework) 在大学的Python作业🤓
 - [2022.02 高一] [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具集，包括分析总听歌时长，下载音乐，签到，加密API构建
 
 ### C# (.NET)
