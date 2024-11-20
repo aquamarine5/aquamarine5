@@ -1,9 +1,11 @@
 # Hi there 👋
 
-![github_stats](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&count_private=true&cache_seconds=21600)
-![github_most_used_language](https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine5&hide=hlsl,shaderlab&layout=compact&text_color=718096&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aquamarine5)](https://git.io/streak-stats)
+![github_stats](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,7FFFD4&count_private=true&cache_seconds=21600)
+![github_most_used_language](https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine5&hide=hlsl,shaderlab&layout=compact&text_color=718096&bg_color=ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aquamarine5&background=0,ffffff,ffffff,ffffff,7FFFD4)](https://git.io/streak-stats)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600)
 [![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
+
 
 ## 我的一些Repo
 
@@ -142,3 +144,8 @@ this.game.cheat.boosts=true
 ```
 
 </details>
+  
+  
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=aquamarine5&theme=github-compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aquamarine5)
