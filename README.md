@@ -5,6 +5,54 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=aquamarine5&background=0,ffffff,ffffff,ffffff,7FFFD4)](https://git.io/streak-stats)
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600)](https://wakatime.com/@aquamarine5)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2034%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌆 Daytime                1273 commits        █████████░░░░░░░░░░░░░░░░   35.96 % 
+🌃 Evening                1571 commits        ███████████░░░░░░░░░░░░░░   44.38 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Wednesday                400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Thursday                 499 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Sunday                   822 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Edge                     51 mins             █████████████░░░░░░░░░░░░   52.48 % 
+VS Code                  43 mins             ███████████░░░░░░░░░░░░░░   44.21 % 
+IntelliJ IDEA            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+```
+
+
+
+
+ Last Updated on 22/11/2024 13:55:03 UTC
 <!--END_SECTION:waka-->
 [![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
 
