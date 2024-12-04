@@ -8,7 +8,7 @@
 ![ioc](https://api.githubtrends.io/user/svg/aquamarine5/repos?time_range=one_year&include_private=True&group=private&theme=classic)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -37,10 +37,9 @@ Sunday                   843 commits         ██████░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  15 hrs 10 mins      ██████████████████████░░░   87.77 % 
-PowerPoint               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Word                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+VS Code                  11 hrs 53 mins      █████████████████████░░░░   85.50 % 
+PowerPoint               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Word                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 
 
