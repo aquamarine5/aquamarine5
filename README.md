@@ -53,6 +53,7 @@ WeChat                   44 mins             █░░░░░░░░░░�
 ### Java (Springboot) + Vue
 
 - [2024.09 大一] [XiaolianShowerSense](https://github.com/aquamarine5/XiaolianShowerSense) 帮助你在使用智慧笑联的学校里面最快找到没有人用的淋浴头
+- [2024.12 大一] [DouyinAnalyser](https://github.com/aquamarine5/DouyinAnalyser) 想知道每天都点赞了多少条抖音视频？自动渲染出SVG分析图表可以挂在你的页面上
 - [2024.10 大一] [Buyistic](https://github.com/aquamarine5/Buyistic) 购物网站的前端及后端
 - [2024.10 大一] [Sagaciousist (**Private**)](https://github.com/aquamarine5/Sagaciousist) 一个连接Ollama的前端数字人页面
 
