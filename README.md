@@ -64,6 +64,7 @@ BitviseSSHClient-xtermter1 hr 30 mins        █░░░░░░░░░░�
 ### JavaScript（Node.js）
 
 - [2022.05 高一] [NeteaseMusicTimeMachine](https://github.com/aquamarine5/NeteaseMusicTimeMachine) 每周自动导出推送网易云音乐黑胶时光机照片
+- [2024.12 大一] [QQBookExporter](https://github.com/aquamarine5/QQBookExporter) 快速导出QQ阅读的书籍为txt格式
 
 ### Kotlin (Jetpack Compose)
 
@@ -188,5 +189,6 @@ this.game.cheat.boosts=true
 </details>
   
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=aquamarine5&theme=github-compact)
+![dy](http://dy.aquamarine5.fun/server/render?id=1)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aquamarine5)
