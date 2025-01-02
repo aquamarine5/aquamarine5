@@ -8,7 +8,7 @@
 ![ioc](https://api.githubtrends.io/user/svg/aquamarine5/repos?time_range=one_year&include_private=True&group=private&theme=classic)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -37,11 +37,11 @@ Sunday                   945 commits         █████░░░░░░�
 
 ```text
 🔥 Editors: 
-WeChat                   8 hrs 26 mins       █████████████░░░░░░░░░░░░   50.41 % 
-Edge                     3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-NetEaseCloudMusic        3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+WeChat                   8 hrs 6 mins        █████████████░░░░░░░░░░░░   52.02 % 
+Edge                     3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+NetEaseCloudMusic        2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+IntelliJ IDEA            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
