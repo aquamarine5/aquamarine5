@@ -46,7 +46,7 @@ VS Code                  1 hr 13 mins        █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-[![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
 
 ## 我的一些Repo
 
@@ -66,6 +66,10 @@ VS Code                  1 hr 13 mins        █░░░░░░░░░░�
 - [2022.05 高一] [NeteaseMusicTimeMachine](https://github.com/aquamarine5/NeteaseMusicTimeMachine) 每周自动导出推送网易云音乐黑胶时光机照片
 - [2024.12 大一] [QQBookExporter](https://github.com/aquamarine5/QQBookExporter) 快速导出QQ阅读的书籍为txt格式
 
+### TypeScript ([BetterNCM](https://github.com/std-microblock/BetterNCM)插件)
+
+- [2025.01 大一] [BetterCloudSearch](https://github.com/aquamarine5/BetterCloudSearch) BetterNCM 插件，直接在搜索页搜索云盘音乐而不用再去云盘进行搜索
+
 ### Kotlin (Jetpack Compose)
 
 - [2023.08 高三] [OnceShot](https://github.com/aquamarine5/OnceShot) 自动删除截图的安卓小工具
@@ -73,8 +77,8 @@ VS Code                  1 hr 13 mins        █░░░░░░░░░░�
 
 ### Python
 
+- [2024.11 大一] [**MyProgramHomework**](https://github.com/aquamarine5/MyProgramHomework) 在大学的Python作业🤓
 - [2020.11 初三] [GenshinBirthdayReceiver](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具（原项目已被封😢，移步[存档](https://github.com/aquamarine5/GenshinBirthdayReceiver-archive)查看脚本文件）
-- [2024.11 大一] [MyProgramHomework](https://github.com/aquamarine5/MyProgramHomework) 在大学的Python作业🤓
 - [2022.02 高一] [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具集，包括分析总听歌时长，下载音乐，签到，加密API构建
 
 ### C# (.NET)
