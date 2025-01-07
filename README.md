@@ -7,6 +7,7 @@
 ![loc](https://api.githubtrends.io/user/svg/aquamarine5/langs?time_range=one_year&include_private=True&group=private&theme=classic)
 ![ioc](https://api.githubtrends.io/user/svg/aquamarine5/repos?time_range=one_year&include_private=True&group=private&theme=classic)
 
+[![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework) 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2025%20mins-blue)
 
