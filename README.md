@@ -72,7 +72,8 @@ pcsuite                  5 mins              ░░░░░░░░░░░�
 ### Kotlin (Jetpack Compose)
 
 - [2023.08 高三] [OnceShot](https://github.com/aquamarine5/OnceShot) 自动删除截图的安卓小工具
-- [2023.06 高二] [Stackbricks-kt](https://github.com/aquamarine5/Stackbricks-kt) 自动更新插件，包含支持Jetpack Compose的UI Card
+- [2023.06 高二] [Stackbricks](https://github.com/aquamarine5/Stackbricks) 自动更新插件，包含支持Jetpack Compose的UI Card
+- [2025.02 大一] [stackbricks-gradle-plugin](https://github.com/aquamarine5/stackbricks-gradle-plugin) 适用于[Stackbricks](https://github.com/aquamarine5/Stackbricks)更新服务器和CDN的Gradle插件
 
 ### Python
 
