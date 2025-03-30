@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ![github_stats](https://github-readme-stats.vercel.app/api?username=aquamarine5&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff,ffffff,ffffff,7FFFD4&count_private=true&cache_seconds=21600)
-![github_most_used_language](https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine5&hide=hlsl,shaderlab&layout=compact&text_color=718096&bg_color=ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)
+![github_most_used_language](https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine5&hide=hlsl,shaderlab&layout=compact&text_color=718096&bg_color=ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=10)
 [![GitHub Streak](https://streak-stats.demolab.com?user=aquamarine5&background=0,ffffff,ffffff,ffffff,7FFFD4)](https://git.io/streak-stats)
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 ![loc](https://api.githubtrends.io/user/svg/aquamarine5/langs?time_range=one_year&include_private=True&group=private&theme=classic)
