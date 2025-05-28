@@ -8,7 +8,7 @@
 ![ioc](https://api.githubtrends.io/user/svg/aquamarine5/repos?time_range=one_year&include_private=True&group=private&theme=classic)
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -37,11 +37,11 @@ Sunday                   1227 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-WeChat                   3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-VS Code                  2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Edge                     1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-NetEaseCloudMusic        58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Word                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+WeChat                   3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.77 % 
+VS Code                  2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Edge                     2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Word                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+NetEaseCloudMusic        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 
