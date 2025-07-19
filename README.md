@@ -6,13 +6,13 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 ![loc](https://api.githubtrends.io/user/svg/aquamarine5/langs?time_range=one_year&include_private=True&group=private&theme=classic)
 ![ioc](https://api.githubtrends.io/user/svg/aquamarine5/repos?time_range=one_year&include_private=True&group=private&theme=classic)
-[![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework) 
+[![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                846 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
@@ -20,7 +20,8 @@
 🌃 Evening                2624 commits        ███████████░░░░░░░░░░░░░░   44.92 % 
 🌙 Night                  379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
@@ -32,8 +33,7 @@ Saturday                 972 commits         ████░░░░░░░�
 Sunday                   1235 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🔥 Editors: 
@@ -43,7 +43,6 @@ PotPlayer                4 hrs 8 mins        ███░░░░░░░░�
 WeChat                   3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 VS Code                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
-
 
 <!--END_SECTION:waka-->
 [![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
@@ -68,9 +67,12 @@ VS Code                  1 hr 13 mins        █░░░░░░░░░░�
 ### TypeScript ([BetterNCM](https://github.com/std-microblock/BetterNCM) 插件)
 
 - [2025.01 大一] [BetterCloudSearch](https://github.com/aquamarine5/BetterCloudSearch) BetterNCM 插件，直接在搜索页搜索云盘音乐而不用再去云盘进行搜索
+- [2025.02 大一] [BetterCloudRematcher](https://github.com/aquamarine5/BetterCloudRematcher) BetterNCM 插件，对无版权音乐右击从云盘自动搜索匹配并绑定
+- [2025.07 大一] [BetterListenCount](https://github.com/aquamarine5/BetterListenCount) BetterNCM 插件，批量获取歌单内歌曲的听歌次数、听歌时长、第一次听歌时间
 
 ### Kotlin (Jetpack Compose)
 
+- [2025.03 大一] [ChaoxingSignFaker (随地大小签)](https://github.com/aquamarine5/ChaoxingSignFaker) 伪造学习通的签到活动，学习通签到神器，支持自定义位置签到、动态二维码接收签到、拍照签到和代签功能
 - [2023.08 高三] [OnceShot](https://github.com/aquamarine5/OnceShot) 自动删除截图的安卓小工具
 - [2023.06 高二] [Stackbricks](https://github.com/aquamarine5/Stackbricks) 自动更新插件，包含支持Jetpack Compose的UI Card
 - [2025.02 大一] [stackbricks-gradle-plugin](https://github.com/aquamarine5/stackbricks-gradle-plugin) 适用于[Stackbricks](https://github.com/aquamarine5/Stackbricks)更新服务器和CDN的Gradle插件
@@ -94,7 +96,6 @@ VS Code                  1 hr 13 mins        █░░░░░░░░░░�
 - [2022.04 高二] [ReadToRecite](https://github.com/aquamarine5/ReadToRecite) Android端APP 逃背诵小工具
 
 ### 几乎废弃的（End of Life）
-
 
 - [2022.02 高一] [NeteaseMusicUtil](https://github.com/aquamarine5/NeteaseMusicUtil) 网易云音乐工具集，包括分析总听歌时长，下载音乐，签到，加密API构建
 - [2020.12 初三] [AwesomeCore](https://github.com/aquamarine5/AwesomeCore) 里面有很多很杂的程序，不过也有很多成型的，大多数是有需求就随手写了以后可能也会用到
