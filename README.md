@@ -6,7 +6,7 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -35,11 +35,11 @@ Sunday                   1481 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.91 % 
-Edge                     5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
-Word                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-PotPlayer                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-NetEaseCloudMusic        1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Edge                     5 hrs 7 mins        ███████████████░░░░░░░░░░   58.51 % 
+NetEaseCloudMusic        1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+PotPlayer                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Unknown Editor           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 
