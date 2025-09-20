@@ -6,41 +6,9 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-🌆 Daytime                2369 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌃 Evening                3398 commits        ████████████░░░░░░░░░░░░░   46.31 % 
-🌙 Night                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   876 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Tuesday                  851 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Thursday                 1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Sunday                   1502 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Edge                     5 hrs 46 mins       ███████████████░░░░░░░░░░   60.35 % 
-PotPlayer                1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-NetEaseCloudMusic        1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-```
 
 
 <!--END_SECTION:waka-->
