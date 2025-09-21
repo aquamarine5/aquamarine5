@@ -6,9 +6,41 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+🌆 Daytime                2372 commits        ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌃 Evening                3415 commits        ████████████░░░░░░░░░░░░░   46.39 % 
+🌙 Night                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   877 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Tuesday                  853 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Wednesday                943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 1145 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Sunday                   1502 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Edge                     3 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.85 % 
+NetEaseCloudMusic        2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+PotPlayer                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Unknown Editor           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+```
 
 
 <!--END_SECTION:waka-->
