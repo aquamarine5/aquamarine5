@@ -6,41 +6,9 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2048%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-🌆 Daytime                2261 commits        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-🌃 Evening                3200 commits        ███████████░░░░░░░░░░░░░░   45.81 % 
-🌙 Night                  524 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   804 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Tuesday                  815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                869 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Thursday                 992 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Friday                   956 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 1121 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Sunday                   1429 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
-Edge                     4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-NetEaseCloudMusic        4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-PotPlayer                1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-PowerPoint               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
