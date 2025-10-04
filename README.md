@@ -6,9 +6,41 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1024 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌆 Daytime                2301 commits        ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌃 Evening                3290 commits        ███████████░░░░░░░░░░░░░░   45.89 % 
+🌙 Night                  554 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   826 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Wednesday                894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Thursday                 1031 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Sunday                   1447 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Edge                     9 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.98 % 
+VS Code                  8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
+NetEaseCloudMusic        4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+PotPlayer                2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Word                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+```
 
 
 <!--END_SECTION:waka-->
