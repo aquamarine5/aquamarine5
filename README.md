@@ -78,7 +78,7 @@ IntelliJ IDEA            1 hr 58 mins        ██░░░░░░░░░�
 
 ### Python
 
-- [2024.11 大一] [**MyProgramHomework**](https://github.com/aquamarine5/MyProgramHomework) 在大学的Python作业🤓
+- [2024.11 大一] [**MyProgramHomework**](https://github.com/aquamarine5/MyProgramHomework) 在河北大学的C语言程序设计作业及实验、汇编程序设计、数据结构作业、Java程序设计实验、Python作业及实验存档，2025数学建模A题代码存档🤓
 - [2020.11 初三] [GenshinBirthdayReceiver *(archive)*](https://github.com/aquamarine5/GenshinBirthdayReceiver) 原神留影叙佳期活动自动领取的小工具（原项目已被封😢，移步[存档](https://github.com/aquamarine5/GenshinBirthdayReceiver-archive)查看脚本文件）
 
 ### C# (.NET)
