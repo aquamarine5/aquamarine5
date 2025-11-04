@@ -6,41 +6,9 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1038 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                2352 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌃 Evening                3411 commits        ████████████░░░░░░░░░░░░░   46.26 % 
-🌙 Night                  573 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Tuesday                  861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Wednesday                926 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Thursday                 1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Friday                   1004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Sunday                   1486 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Edge                     12 hrs 55 mins      █████████████░░░░░░░░░░░░   52.43 % 
-Android Studio           2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Word                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Visual Studio            2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-NetEaseCloudMusic        1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
