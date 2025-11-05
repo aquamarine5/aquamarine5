@@ -6,9 +6,41 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1070 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+🌆 Daytime                2394 commits        ████████░░░░░░░░░░░░░░░░░   31.55 % 
+🌃 Evening                3517 commits        ████████████░░░░░░░░░░░░░   46.34 % 
+🌙 Night                  608 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   915 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Tuesday                  894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Wednesday                952 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Thursday                 1087 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Sunday                   1509 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Edge                     11 hrs 40 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+Visual Studio            3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Word                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Android Studio           1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+NetEaseCloudMusic        1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+```
 
 
 <!--END_SECTION:waka-->
