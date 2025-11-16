@@ -47,6 +47,18 @@ Visual Studio            2 hrs 26 mins       ██░░░░░░░░░�
 [![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
 
 ## 我的一些Repo
+### Kotlin (Jetpack Compose)
+
+- [2025.03 大一] [ChaoxingSignFaker (随地大小签)](https://github.com/aquamarine5/ChaoxingSignFaker) 伪造学习通的签到活动，学习通签到神器，支持自定义位置签到、动态二维码接收签到、拍照签到和代签功能
+- [2023.08 高三] [OnceShot](https://github.com/aquamarine5/OnceShot) 自动删除截图的安卓小工具
+- [2023.06 高二] [Stackbricks](https://github.com/aquamarine5/Stackbricks) 自动更新插件，包含支持Jetpack Compose的UI Card
+- [2025.02 大一] [stackbricks-gradle-plugin](https://github.com/aquamarine5/stackbricks-gradle-plugin) 适用于[Stackbricks](https://github.com/aquamarine5/Stackbricks)更新服务器和CDN的Gradle插件
+  
+### TypeScript ([BetterNCM](https://github.com/std-microblock/BetterNCM) 插件)
+
+- [2025.01 大一] [BetterCloudSearch](https://github.com/aquamarine5/BetterCloudSearch) BetterNCM 插件，直接在搜索页搜索云盘音乐而不用再去云盘进行搜索
+- [2025.02 大一] [BetterCloudRematcher](https://github.com/aquamarine5/BetterCloudRematcher) BetterNCM 插件，对无版权音乐右击从云盘自动搜索匹配并绑定
+- [2025.07 大一] [BetterListenCount](https://github.com/aquamarine5/BetterListenCount) BetterNCM 插件，批量获取歌单内歌曲的听歌次数、听歌时长、第一次听歌时间
 
 ### Java (Springboot) + Vue
 
@@ -62,19 +74,6 @@ Visual Studio            2 hrs 26 mins       ██░░░░░░░░░�
 
 - [2022.05 高一] [NeteaseMusicTimeMachine](https://github.com/aquamarine5/NeteaseMusicTimeMachine) 每周自动导出推送网易云音乐黑胶时光机照片
 - [2024.12 大一] [QQBookExporter](https://github.com/aquamarine5/QQBookExporter) 快速导出QQ阅读的书籍为txt格式
-
-### TypeScript ([BetterNCM](https://github.com/std-microblock/BetterNCM) 插件)
-
-- [2025.01 大一] [BetterCloudSearch](https://github.com/aquamarine5/BetterCloudSearch) BetterNCM 插件，直接在搜索页搜索云盘音乐而不用再去云盘进行搜索
-- [2025.02 大一] [BetterCloudRematcher](https://github.com/aquamarine5/BetterCloudRematcher) BetterNCM 插件，对无版权音乐右击从云盘自动搜索匹配并绑定
-- [2025.07 大一] [BetterListenCount](https://github.com/aquamarine5/BetterListenCount) BetterNCM 插件，批量获取歌单内歌曲的听歌次数、听歌时长、第一次听歌时间
-
-### Kotlin (Jetpack Compose)
-
-- [2025.03 大一] [ChaoxingSignFaker (随地大小签)](https://github.com/aquamarine5/ChaoxingSignFaker) 伪造学习通的签到活动，学习通签到神器，支持自定义位置签到、动态二维码接收签到、拍照签到和代签功能
-- [2023.08 高三] [OnceShot](https://github.com/aquamarine5/OnceShot) 自动删除截图的安卓小工具
-- [2023.06 高二] [Stackbricks](https://github.com/aquamarine5/Stackbricks) 自动更新插件，包含支持Jetpack Compose的UI Card
-- [2025.02 大一] [stackbricks-gradle-plugin](https://github.com/aquamarine5/stackbricks-gradle-plugin) 适用于[Stackbricks](https://github.com/aquamarine5/Stackbricks)更新服务器和CDN的Gradle插件
 
 ### Python
 
