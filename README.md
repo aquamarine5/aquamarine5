@@ -6,9 +6,41 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C599%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.40%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1381 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+🌆 Daytime                3000 commits        ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌃 Evening                4428 commits        ████████████░░░░░░░░░░░░░   46.32 % 
+🌙 Night                  751 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Tuesday                  1207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Wednesday                1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Thursday                 1397 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Friday                   1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 1450 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Sunday                   1815 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Edge                     5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
+Android Studio           4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
+VS Code                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+NetEaseCloudMusic        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Word                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+```
 
 
 <!--END_SECTION:waka-->
