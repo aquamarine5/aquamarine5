@@ -6,28 +6,28 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-🌆 Daytime                3032 commits        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌃 Evening                4441 commits        ████████████░░░░░░░░░░░░░   46.14 % 
-🌙 Night                  761 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+🌞 Morning                1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+🌆 Daytime                3037 commits        ████████░░░░░░░░░░░░░░░░░   31.53 % 
+🌃 Evening                4441 commits        ████████████░░░░░░░░░░░░░   46.10 % 
+🌙 Night                  761 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1246 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Tuesday                  1207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Wednesday                1180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Thursday                 1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   1303 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Sunday                   1819 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Monday                   1251 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Tuesday                  1207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Wednesday                1180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Thursday                 1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Friday                   1303 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Sunday                   1821 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 ```
 
 
