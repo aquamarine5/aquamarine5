@@ -35,11 +35,10 @@ Sunday                   1914 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-Edge                     5 hrs 10 mins       ███████████████░░░░░░░░░░   60.90 % 
-Android Studio           2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-NetEaseCloudMusic        31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Word                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-PotPlayer                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Edge                     5 hrs 10 mins       ████████████████░░░░░░░░░   65.04 % 
+Android Studio           2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Word                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+NetEaseCloudMusic        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
