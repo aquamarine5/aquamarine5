@@ -6,28 +6,28 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-🌆 Daytime                3294 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
-🌃 Evening                4766 commits        ███████████░░░░░░░░░░░░░░   45.53 % 
-🌙 Night                  882 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+🌞 Morning                1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌆 Daytime                3295 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌃 Evening                4771 commits        ███████████░░░░░░░░░░░░░░   45.54 % 
+🌙 Night                  885 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Tuesday                  1338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Wednesday                1275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Thursday                 1544 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Friday                   1452 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 1577 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   1914 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   1371 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Tuesday                  1339 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                1275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Thursday                 1544 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Friday                   1452 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Saturday                 1578 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   1918 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 ```
 
 
@@ -35,10 +35,10 @@ Sunday                   1914 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-Edge                     4 hrs 55 mins       ███████████████░░░░░░░░░░   59.91 % 
-Android Studio           2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Word                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-NetEaseCloudMusic        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Edge                     7 hrs 18 mins       ████████████████░░░░░░░░░   62.41 % 
+Android Studio           3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+NetEaseCloudMusic        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Word                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
