@@ -6,7 +6,9 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,10 +37,33 @@ Sunday                   1918 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-Edge                     7 hrs 18 mins       ████████████████░░░░░░░░░   62.41 % 
-Android Studio           3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
-NetEaseCloudMusic        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Word                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Edge                     7 hrs 51 mins       ███████████████░░░░░░░░░░   59.84 % 
+Android Studio           3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+NetEaseCloudMusic        1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Unknown Editor           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 min (0.17%)
+
+✍️ 2 lines written by AI, 321 lines written by hand (0.62% AI-written)
+
+🔤 9,774 Input Tokens, 484 Output Tokens
+
+💵 $0.04 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Deepseek                 2 lines             █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.62% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.66% of changed lines were hand-edited
 ```
 
 
