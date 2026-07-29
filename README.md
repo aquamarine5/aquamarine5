@@ -6,7 +6,7 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
 [![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2056%20mins-blue?style=flat)
 
@@ -15,21 +15,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                3295 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
-🌃 Evening                4771 commits        ███████████░░░░░░░░░░░░░░   45.54 % 
+🌞 Morning                1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌆 Daytime                3295 commits        ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌃 Evening                4773 commits        ███████████░░░░░░░░░░░░░░   45.55 % 
 🌙 Night                  885 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1371 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Tuesday                  1339 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Monday                   1371 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Tuesday                  1341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 Wednesday                1275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Thursday                 1544 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Thursday                 1544 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 Friday                   1452 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Saturday                 1578 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   1918 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Sunday                   1918 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 ```
 
 
@@ -37,18 +37,18 @@ Sunday                   1918 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-Edge                     7 hrs 51 mins       ███████████████░░░░░░░░░░   59.84 % 
-Android Studio           3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-NetEaseCloudMusic        1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Unknown Editor           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Edge                     11 hrs 32 mins      ██████████████░░░░░░░░░░░   56.05 % 
+Android Studio           7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+NetEaseCloudMusic        1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Unknown Editor           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.17%)
+⏱ AI Coding Time: 1 min (0.11%)
 
-✍️ 2 lines written by AI, 321 lines written by hand (0.62% AI-written)
+✍️ 2 lines written by AI, 1,118 lines written by hand (0.18% AI-written)
 
 🔤 9,774 Input Tokens, 484 Output Tokens
 
@@ -60,10 +60,10 @@ Deepseek                 2 lines             ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.62% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
 📝 Concise Prompter — average 128 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.66% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.9% of changed lines were hand-edited
 ```
 
 
