@@ -4,7 +4,9 @@
 ![github_most_used_language](https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine5&hide=hlsl,shaderlab&layout=compact&text_color=718096&bg_color=ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=12)
 [![GitHub Streak](https://streak-stats.demolab.com?user=aquamarine5&background=0,ffffff,ffffff,ffffff,7FFFD4)](https://git.io/streak-stats)
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=aquamarine5&hide=other&layout=compact&bg_color=ffffff,ffffff,ffffff,ffffff,7FFFD4&cache_seconds=21600&langs_count=8)](https://wakatime.com/@aquamarine5)  
-[![MyProgramHomework 河大作业](https://github-readme-stats.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
+[![MyProgramHomework 河大作业](https://github-stats-extended.vercel.app/api/pin/?username=aquamarine5&repo=MyProgramHomework)](https://github.com/aquamarine5/MyProgramHomework)
+
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2033%20mins-blue?style=flat)
 
@@ -68,7 +70,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-[![My Skills](https://skillicons.dev/icons?i=javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,kotlin,ps,cpp&theme=light)](https://skillicons.dev)
+
 
 ## 我的一些Repo
 ### Kotlin (Jetpack Compose)
@@ -218,6 +220,5 @@ this.game.cheat.boosts=true
 </details>
   
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=aquamarine5&theme=github-compact)
-![dy](http://dy.aquamarine5.fun/server/render?id=1)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aquamarine5)
