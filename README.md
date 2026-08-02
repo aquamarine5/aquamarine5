@@ -8,7 +8,7 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2012%20mins-blue?style=flat)
 
@@ -39,19 +39,19 @@ Sunday                   1918 commits        █████░░░░░░�
 
 ```text
 🔥 Editors: 
-Edge                     24 hrs 17 mins      ████████████████░░░░░░░░░   62.39 % 
-Android Studio           10 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-NetEaseCloudMusic        2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Unknown Editor           40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Word                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Edge                     25 hrs 39 mins      ████████████████░░░░░░░░░   63.56 % 
+Android Studio           9 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+NetEaseCloudMusic        3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Unknown Editor           44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Word                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (0.76%)
+⏱ AI Coding Time: 17 mins (0.73%)
 
-✍️ 4 lines written by AI, 2,030 lines written by hand (0.2% AI-written)
+✍️ 4 lines written by AI, 1,925 lines written by hand (0.21% AI-written)
 
 🔤 65,606 Input Tokens, 6,275 Output Tokens
 
@@ -64,10 +64,10 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.2% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.21% of written lines came from AI
 📝 Concise Prompter — average 157 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.57% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.53% of changed lines were hand-edited
 ```
 
 
