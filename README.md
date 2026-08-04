@@ -18,19 +18,19 @@
 
 ```text
 🌞 Morning                1588 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                3419 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌃 Evening                4951 commits        ███████████░░░░░░░░░░░░░░   45.43 % 
-🌙 Night                  940 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌆 Daytime                3421 commits        ████████░░░░░░░░░░░░░░░░░   31.39 % 
+🌃 Evening                4951 commits        ███████████░░░░░░░░░░░░░░   45.42 % 
+🌙 Night                  940 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1433 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Tuesday                  1406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Tuesday                  1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 Wednesday                1320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 Thursday                 1611 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   1534 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Saturday                 1630 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Friday                   1534 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Saturday                 1630 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 Sunday                   1964 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 ```
 
@@ -38,6 +38,13 @@ Sunday                   1964 commits        █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages: 
+Other                    33 hrs 59 mins      █████████████████░░░░░░░░   68.19 % 
+Kotlin                   12 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+TOML                     59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Gradle                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
 🔥 Editors: 
 Edge                     30 hrs 25 mins      ███████████████░░░░░░░░░░   61.06 % 
 Android Studio           12 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
