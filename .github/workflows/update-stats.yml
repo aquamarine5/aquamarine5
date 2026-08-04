@@ -25,4 +25,4 @@ jobs:
           IGNORED_REPOS: "MyUnityProject"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_UPDATED_DATE: "False"
-          LOCALE: "zh_Hans"
+          LOCALE: "en"
