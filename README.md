@@ -8,9 +8,9 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,41 +39,42 @@ Sunday                   1964 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 38 mins      █████████████████░░░░░░░░   68.88 % 
-Kotlin                   12 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-TOML                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Jupyter Notebook         45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Java                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Other                    38 hrs 20 mins      ██████████████████░░░░░░░   70.41 % 
+Kotlin                   11 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Jupyter Notebook         49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+textmate                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Edge                     34 hrs 22 mins      ████████████████░░░░░░░░░   62.91 % 
-Android Studio           11 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-NetEaseCloudMusic        6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Word                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Unknown Editor           53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Edge                     34 hrs 55 mins      ████████████████░░░░░░░░░   64.13 % 
+Android Studio           10 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+NetEaseCloudMusic        5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Unknown Editor           1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Word                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (1.3%)
+⏱ AI Coding Time: 1 hr 5 mins (2.01%)
 
-✍️ 16 lines written by AI, 3,163 lines written by hand (0.5% AI-written)
+✍️ 16 lines written by AI, 3,155 lines written by hand (0.5% AI-written)
 
-🔤 116,866 Input Tokens, 5,460 Output Tokens
+🔤 538,451 Input Tokens, 18,935 Output Tokens
 
-💵 $0.43 Estimated AI Cost This Week
+💵 $2.94 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 13 AI Prompts
+🧠 7 AI Sessions, 26 AI Prompts
 
 Deepseek                 32 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.5% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 64 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 99.3% of changed lines were hand-edited
 ```
 
