@@ -39,26 +39,26 @@ Sunday                   1964 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 21 mins      ██████████████████░░░░░░░   70.92 % 
-Kotlin                   7 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Groovy                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-TOML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other                    25 hrs 14 mins      ██████████████████░░░░░░░   72.01 % 
+Kotlin                   5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Groovy                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TOML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Edge                     26 hrs 35 mins      ████████████████░░░░░░░░░   64.21 % 
-Android Studio           5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Codex Vscode             3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-NetEaseCloudMusic        2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Unknown Editor           1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Edge                     21 hrs 28 mins      ███████████████░░░░░░░░░░   61.28 % 
+Android Studio           4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Codex Vscode             3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Unknown Editor           1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+NetEaseCloudMusic        1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 5 mins (14.71%)
+⏱ AI Coding Time: 6 hrs 5 mins (17.38%)
 
-✍️ 65 lines written by AI, 2,018 lines written by hand (3.12% AI-written)
+✍️ 65 lines written by AI, 2,003 lines written by hand (3.14% AI-written)
 
 🔤 3,487,031 Input Tokens, 180,232 Output Tokens
 
@@ -72,10 +72,10 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Androidstudio            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.12% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.14% of written lines came from AI
 📄 Detailed Prompter — average 652 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 97.53% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.52% of changed lines were hand-edited
 ```
 
 
