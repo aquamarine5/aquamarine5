@@ -8,9 +8,9 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,44 +39,44 @@ Sunday                   1967 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 41 mins      ████████████░░░░░░░░░░░░░   49.79 % 
-Kotlin                   14 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.12 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-TOML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Groovy                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    18 hrs 44 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+Kotlin                   13 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.46 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Groovy                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TOML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Edge                     16 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.60 % 
-Android Studio           11 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   30.08 % 
-Codex Vscode             6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-NetEaseCloudMusic        1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Edge                     14 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   38.13 % 
+Android Studio           11 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Codex Vscode             5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+NetEaseCloudMusic        1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+PowerPoint               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 47 mins (39.93%)
+⏱ AI Coding Time: 15 hrs 36 mins (40.85%)
 
-✍️ 2,586 lines written by AI, 3,881 lines written by hand (39.99% AI-written)
+✍️ 2,586 lines written by AI, 7,701 lines written by hand (25.14% AI-written)
 
-🔤 12,888,377 Input Tokens, 709,336 Output Tokens
+🔤 143,055,648 Input Tokens, 1,807,307 Output Tokens
 
-💵 $462.13 Estimated AI Cost This Week
+💵 $837.08 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 275 AI Prompts
+🧠 40 AI Sessions, 256 AI Prompts
 
 Opencode-Cli             3,261 lines         ████████████████████████░   97.00 % 
 GPT                      101 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.99% of written lines came from AI
-📝 Concise Prompter — average 96 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 64.48% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.14% of written lines came from AI
+📝 Concise Prompter — average 98 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 74.99% of changed lines were hand-edited
 ```
 
 
