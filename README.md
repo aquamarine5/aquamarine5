@@ -8,9 +8,9 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,44 +39,44 @@ Sunday                   1967 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 4 mins       ██████████████░░░░░░░░░░░   56.13 % 
-Kotlin                   12 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.76 % 
-Groovy                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Protocol Buffer          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Gradle                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    21 hrs 17 mins      ████████████████░░░░░░░░░   64.91 % 
+Kotlin                   7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Protocol Buffer          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Groovy                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Gradle                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Edge                     12 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   34.45 % 
-Android Studio           10 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   30.28 % 
-Codex Vscode             4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-NetEaseCloudMusic        2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-PowerPoint               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Edge                     11 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   36.21 % 
+Android Studio           7 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Codex Vscode             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Word                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+NetEaseCloudMusic        2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 38 mins (38.14%)
+⏱ AI Coding Time: 10 hrs 17 mins (31.38%)
 
-✍️ 1,661 lines written by AI, 7,692 lines written by hand (17.76% AI-written)
+✍️ 785 lines written by AI, 7,601 lines written by hand (9.36% AI-written)
 
-🔤 181,262,314 Input Tokens, 2,296,770 Output Tokens
+🔤 250,896,730 Input Tokens, 2,820,916 Output Tokens
 
-💵 $858.12 Estimated AI Cost This Week
+💵 $1168.86 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 213 AI Prompts
+🧠 56 AI Sessions, 149 AI Prompts
 
-Opencode-Cli             2,334 lines         ████████████████████████░   95.85 % 
-GPT                      101 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Opencode-Cli             1,259 lines         ███████████████████████░░   92.57 % 
+GPT                      101 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.76% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 80.53% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.36% of written lines came from AI
+📝 Concise Prompter — average 109 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 87.69% of changed lines were hand-edited
 ```
 
 
