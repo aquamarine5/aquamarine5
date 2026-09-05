@@ -8,9 +8,9 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,44 +39,44 @@ Sunday                   2013 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 9 mins       ███████████████████░░░░░░   77.72 % 
-Kotlin                   2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Protocol Buffer          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-PowerShell               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Java                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    18 hrs 1 min        █████████████████░░░░░░░░   67.34 % 
+Kotlin                   4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Protocol Buffer          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+PowerShell               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Groovy                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Edge                     9 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-Word                     4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Android Studio           2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-NetEaseCloudMusic        2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Codex Vscode             1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Edge                     9 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.04 % 
+Word                     6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Android Studio           4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+NetEaseCloudMusic        1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+PowerPoint               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 26 mins (28.68%)
+⏱ AI Coding Time: 7 hrs 33 mins (28.28%)
 
-✍️ 173 lines written by AI, 3,378 lines written by hand (4.87% AI-written)
+✍️ 981 lines written by AI, 328 lines written by hand (74.94% AI-written)
 
-🔤 333,067,412 Input Tokens, 3,128,173 Output Tokens
+🔤 333,390,640 Input Tokens, 3,132,727 Output Tokens
 
-💵 $1413.30 Estimated AI Cost This Week
+💵 $1517.25 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 84 AI Prompts
+🧠 67 AI Sessions, 92 AI Prompts
 
-Spark                    71 lines            █████████████████████████   100.00 % 
+Spark                    783 lines           █████████████████████░░░░   85.48 % 
+GPT                      72 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Mimo                     61 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.87% of written lines came from AI
-📚 Verbose Prompter — average 10,267 characters per prompt
+🤖 AI-Driven — 74.94% of written lines came from AI
+📚 Verbose Prompter — average 9,390 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.27% of changed lines were hand-edited
+🚀 High AI Trust — 37.45% of changed lines were hand-edited
 ```
 
 
