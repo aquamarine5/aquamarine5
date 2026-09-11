@@ -8,30 +8,30 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.90%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-🌆 Daytime                3605 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
-🌃 Evening                5196 commits        ███████████░░░░░░░░░░░░░░   45.14 % 
-🌙 Night                  1005 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+🌞 Morning                1706 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+🌆 Daytime                3612 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌃 Evening                5205 commits        ███████████░░░░░░░░░░░░░░   45.15 % 
+🌙 Night                  1006 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1525 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Tuesday                  1521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                1418 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Thursday                 1688 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Friday                   1633 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Saturday                 1699 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Sunday                   2026 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Monday                   1530 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  1523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Wednesday                1421 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Thursday                 1694 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Friday                   1633 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Saturday                 1699 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   2029 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 ```
 
 
@@ -39,44 +39,44 @@ Sunday                   2026 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   12 hrs 12 mins      █████████████░░░░░░░░░░░░   51.53 % 
-Other                    8 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
-Groovy                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-TOML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Kotlin                   10 hrs 47 mins      ███████████░░░░░░░░░░░░░░   44.21 % 
+Other                    8 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
+Python                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Groovy                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Android Studio           11 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.46 % 
-Edge                     6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Word                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Codex Vscode             1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-PowerPoint               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Android Studio           10 hrs 50 mins      ███████████░░░░░░░░░░░░░░   44.38 % 
+Edge                     6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Codex Vscode             3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Word                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+PowerPoint               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 7 mins (46.92%)
+⏱ AI Coding Time: 11 hrs 39 mins (47.73%)
 
-✍️ 1,829 lines written by AI, 7,351 lines written by hand (19.92% AI-written)
+✍️ 4,030 lines written by AI, 7,371 lines written by hand (35.35% AI-written)
 
-🔤 163,905,907 Input Tokens, 1,312,626 Output Tokens
+🔤 160,022,376 Input Tokens, 1,370,662 Output Tokens
 
-💵 $1367.56 Estimated AI Cost This Week
+💵 $1440.16 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 163 AI Prompts
+🧠 37 AI Sessions, 152 AI Prompts
 
-Spark                    1,824 lines         ███████████████████████░░   93.06 % 
-GPT                      72 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Mimo                     64 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Spark                    2,259 lines         █████████████░░░░░░░░░░░░   53.99 % 
+GPT                      1,861 lines         ███████████░░░░░░░░░░░░░░   44.48 % 
+Mimo                     64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.92% of written lines came from AI
-📚 Verbose Prompter — average 5,355 characters per prompt
+⚖️ Balanced with AI — 35.35% of written lines came from AI
+📄 Detailed Prompter — average 676 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 79.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.75% of changed lines were hand-edited
 ```
 
 
