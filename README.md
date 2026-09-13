@@ -8,9 +8,9 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-690%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.90%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,44 +39,44 @@ Sunday                   2029 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 14 mins      ███████████░░░░░░░░░░░░░░   42.34 % 
-Kotlin                   8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Python                   6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Groovy                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Other                    17 hrs 15 mins      ███████████░░░░░░░░░░░░░░   43.79 % 
+Python                   12 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.89 % 
+Kotlin                   6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Groovy                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Android Studio           9 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Edge                     9 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Codex Vscode             6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Word                     4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-PowerPoint               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Codex Vscode             11 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+Edge                     11 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Android Studio           6 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Word                     6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+VS Code                  2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 50 mins (44.28%)
+⏱ AI Coding Time: 17 hrs 46 mins (45.07%)
 
-✍️ 4,486 lines written by AI, 8,191 lines written by hand (35.39% AI-written)
+✍️ 5,634 lines written by AI, 8,716 lines written by hand (39.26% AI-written)
 
-🔤 245,388,040 Input Tokens, 3,758,694 Output Tokens
+🔤 180,005,856 Input Tokens, 5,402,274 Output Tokens
 
-💵 $2456.22 Estimated AI Cost This Week
+💵 $2665.19 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 162 AI Prompts
+🧠 57 AI Sessions, 236 AI Prompts
 
-GPT                      2,974 lines         ████████████████░░░░░░░░░   64.58 % 
-Spark                    1,573 lines         █████████░░░░░░░░░░░░░░░░   34.16 % 
-Codex-Vscode             55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Mimo                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GPT                      3,835 lines         ████████████████░░░░░░░░░   63.44 % 
+Spark                    2,152 lines         █████████░░░░░░░░░░░░░░░░   35.60 % 
+Codex-Vscode             55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Mimo                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.39% of written lines came from AI
-📄 Detailed Prompter — average 647 characters per prompt
+⚖️ Balanced with AI — 39.26% of written lines came from AI
+📄 Detailed Prompter — average 635 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.72% of changed lines were hand-edited
 ```
 
 
