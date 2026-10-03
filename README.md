@@ -8,9 +8,9 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,44 +39,44 @@ Sunday                   2085 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 26 mins      ██████████████░░░░░░░░░░░   57.55 % 
-Kotlin                   10 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Python                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Gradle                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Other                    26 hrs 22 mins      ████████████████░░░░░░░░░   65.67 % 
+Kotlin                   8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Python                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Gradle                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-Edge                     11 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   30.47 % 
-Android Studio           9 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Codex Vscode             5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Unknown Editor           4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-NetEaseCloudMusic        2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Edge                     14 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.42 % 
+Android Studio           6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Unknown Editor           6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Codex Vscode             3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+NetEaseCloudMusic        3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 49 mins (55.92%)
+⏱ AI Coding Time: 20 hrs 15 mins (50.42%)
 
-✍️ 8,309 lines written by AI, 4,280 lines written by hand (66.0% AI-written)
+✍️ 5,727 lines written by AI, 4,278 lines written by hand (57.24% AI-written)
 
-🔤 83,845,657 Input Tokens, 2,764,315 Output Tokens
+🔤 95,329,737 Input Tokens, 3,109,230 Output Tokens
 
-💵 $1009.15 Estimated AI Cost This Week
+💵 $997.73 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 336 AI Prompts
+🧠 66 AI Sessions, 327 AI Prompts
 
-ZCode                    4,512 lines         █████████████░░░░░░░░░░░░   53.36 % 
-GPT                      2,860 lines         ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Opencode-Cli             686 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Spark                    397 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,860 lines         ████████████░░░░░░░░░░░░░   48.70 % 
+ZCode                    1,930 lines         ████████░░░░░░░░░░░░░░░░░   32.86 % 
+Opencode-Cli             686 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Spark                    397 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.0% of written lines came from AI
-📝 Concise Prompter — average 263 characters per prompt
+⚖️ Balanced with AI — 57.24% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 34.54% of changed lines were hand-edited
+🚀 High AI Trust — 42.13% of changed lines were hand-edited
 ```
 
 
