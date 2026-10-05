@@ -39,44 +39,44 @@ Sunday                   2085 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 32 mins      ███████████████████░░░░░░   77.20 % 
-Kotlin                   5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Python                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Assembly                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    27 hrs 3 mins       ████████████████████░░░░░   78.92 % 
+Kotlin                   3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Assembly                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Edge                     16 hrs 52 mins      ███████████░░░░░░░░░░░░░░   42.65 % 
-Unknown Editor           6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-NetEaseCloudMusic        4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Codex Vscode             3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Android Studio           3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Edge                     14 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.68 % 
+Unknown Editor           6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+NetEaseCloudMusic        4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Android Studio           3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Codex Vscode             2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 41 mins (42.17%)
+⏱ AI Coding Time: 13 hrs 54 mins (40.57%)
 
-✍️ 3,482 lines written by AI, 3,378 lines written by hand (50.76% AI-written)
+✍️ 2,769 lines written by AI, 34 lines written by hand (98.79% AI-written)
 
-🔤 68,821,970 Input Tokens, 2,805,525 Output Tokens
+🔤 59,015,407 Input Tokens, 2,581,860 Output Tokens
 
-💵 $684.73 Estimated AI Cost This Week
+💵 $652.62 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 258 AI Prompts
+🧠 49 AI Sessions, 202 AI Prompts
 
-GPT                      2,860 lines         ████████████████████░░░░░   79.84 % 
-Opencode-Cli             686 lines           █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Spark                    36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+GPT                      2,143 lines         ███████████████████░░░░░░   74.80 % 
+Opencode-Cli             686 lines           ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Spark                    36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.76% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
+🤖 AI-Driven — 98.79% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 48.32% of changed lines were hand-edited
+🚀 High AI Trust — 1.45% of changed lines were hand-edited
 ```
 
 
