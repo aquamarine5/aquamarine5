@@ -8,30 +8,30 @@
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,javascript,vue,cs,python,java,typescript,blender,unity,androidstudio,ps,cpp&theme=light)](https://skillicons.dev)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.08%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1808 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌆 Daytime                3825 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
-🌃 Evening                5458 commits        ███████████░░░░░░░░░░░░░░   44.81 % 
-🌙 Night                  1089 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+🌞 Morning                1823 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+🌆 Daytime                3858 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌃 Evening                5518 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
+🌙 Night                  1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  1635 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Wednesday                1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Thursday                 1796 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Friday                   1752 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Saturday                 1773 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Sunday                   2087 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Monday                   1626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Tuesday                  1645 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Wednesday                1536 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Thursday                 1820 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Friday                   1766 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Saturday                 1800 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Sunday                   2105 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
 ```
 
 
@@ -39,43 +39,44 @@ Sunday                   2087 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 14 mins      ██████████████████░░░░░░░   72.65 % 
-Kotlin                   5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Groovy                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-TOML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    26 hrs 3 mins       █████████████████░░░░░░░░   69.75 % 
+Kotlin                   4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Python                   2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Groovy                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TOML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-Edge                     19 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.68 % 
-Word                     4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Android Studio           4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Unknown Editor           2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-CLI                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Edge                     17 hrs 55 mins      ████████████░░░░░░░░░░░░░   47.99 % 
+Word                     4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Android Studio           3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Unknown Editor           2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+CLI                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 59 mins (27.3%)
+⏱ AI Coding Time: 11 hrs 14 mins (30.09%)
 
-✍️ 1,383 lines written by AI, 219 lines written by hand (86.33% AI-written)
+✍️ 4,275 lines written by AI, 321 lines written by hand (93.02% AI-written)
 
-🔤 30,727,865 Input Tokens, 1,133,901 Output Tokens
+🔤 31,425,213 Input Tokens, 1,156,301 Output Tokens
 
-💵 $370.50 Estimated AI Cost This Week
+💵 $375.36 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 279 AI Prompts
+🧠 44 AI Sessions, 280 AI Prompts
 
-Opencode-Cli             1,257 lines         █████████████████████████   100.00 % 
+Opencode-Cli             2,684 lines         █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Step                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.33% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 18.74% of changed lines were hand-edited
+🤖 AI-Driven — 93.02% of written lines came from AI
+📝 Concise Prompter — average 318 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 9.81% of changed lines were hand-edited
 ```
 
 
