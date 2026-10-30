@@ -39,32 +39,32 @@ Sunday                   2105 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 32 mins      ██████████████████░░░░░░░   70.15 % 
-Kotlin                   2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Python                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Image (png)              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Other                    14 hrs              █████████████████░░░░░░░░   68.02 % 
+Kotlin                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Python                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Edge                     11 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.98 % 
-Android Studio           4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Unknown Editor           4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Word                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-NetEaseCloudMusic        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Edge                     9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.77 % 
+Android Studio           4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Unknown Editor           4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Word                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+NetEaseCloudMusic        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (38.12%)
+⏱ AI Coding Time: 8 hrs 26 mins (40.94%)
 
 ✍️ 3,071 lines written by AI, 136 lines written by hand (95.76% AI-written)
 
-🔤 37,813,342 Input Tokens, 2,822,540 Output Tokens
+🔤 36,650,979 Input Tokens, 2,811,302 Output Tokens
 
-💵 $712.33 Estimated AI Cost This Week
+💵 $712.22 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 155 AI Prompts
+🧠 39 AI Sessions, 125 AI Prompts
 
 DeepSeek                 2,131 lines         █████████████████░░░░░░░░   69.82 % 
 GLM                      881 lines           ███████░░░░░░░░░░░░░░░░░░   28.87 % 
@@ -74,8 +74,8 @@ Androidstudio            0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 95.76% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 390 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 11.2% of changed lines were hand-edited
 ```
 
